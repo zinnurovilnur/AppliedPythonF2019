@@ -8,7 +8,7 @@ def check_palindrom(input_string):
     она палиндромом.
     :param input_string: строка
     :return: True, если строка являестя палиндромом
-    False иначе
+    False ина че
     '''
     return input_string == input_string[::-1]
 

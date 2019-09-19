@@ -9,7 +9,7 @@ def calculate_determinant(list_of_lists):
     None
     Гарантируется, что в матрице float
     :param list_of_lists: список списков - исходная матрица
-    :return: значение определителя или None
+    :return: зна чение определителя или None
     '''
     if len(list_of_lists) == 0:
         return None
